@@ -1,0 +1,78 @@
+body {
+    background-color: white;
+    padding: 12px;
+    font-family: inherit,;
+    text-transform: uppercase;
+    font-size: 70%;
+    font-weight: smaller;
+    
+
+}
+
+h1 {
+	font-style: inherit;
+	font-weight: lighter;
+	font-style: italic;
+}
+
+a {
+	text-decoration: none;
+	color:black;
+	padding: 0;
+}
+#container { 
+background-color: white;
+width: 1200px;
+margin-left: auto;
+margin-right: auto;
+ }
+
+#content {
+	padding: 10px;
+}
+
+#nav {
+	width: 100px;
+	float: left;
+}
+
+
+
+#main {
+	margin-top: 50px;
+	width: 1050px;
+	float: right;
+	height: 450px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+
+.photo {
+
+	width:602px;
+	height:400px;
+
+}
+#main2 {
+	margin-top: 50px;
+	width: 1050px;
+	float: right;
+	height: 450px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+
+.photo2 {
+	width: 303px;
+	height: 450px;
+}
+#footer {
+	clear: both;
+	padding: 10px;
+	font-size: 12px
+	color: black;
+	text-align: right;
+	font-family:'Helvetica', Helvetica, Arial, sans-serif;
+}
